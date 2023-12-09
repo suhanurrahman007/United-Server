@@ -1,0 +1,44 @@
+[{
+        "author": {
+            "image": "https://i.ibb.co/Fgcb0Rw/pexels-photo-1043474.jpg",
+            "name": "John Doe",
+            "email": "john.doe@email.com"
+        },
+        "post": {
+            "title": "Introduction to React",
+            "description": "A beginner's guide to learning React",
+            "tag": "Technology",
+            "upVote": 5,
+            "downVote": 0
+        }
+    },
+    {
+        "author": {
+            "image": "https://i.ibb.co/4T6zYFb/pexels-photo-1036620.webp",
+            "name": "Alice Smith",
+            "email": "alice.smith@email.com"
+        },
+        "post": {
+            "title": "Favorite Books of 2023",
+            "description": "Share and discuss your favorite books of the year",
+            "tag": "Books",
+            "upVote": 2,
+            "downVote": 0
+        }
+    },
+    {
+        "author": {
+            "image": "https://i.ibb.co/Fgcb0Rw/pexels-photo-1043474.jpg",
+            "name": "Bob Johnson",
+            "email": "bob.johnson@email.com"
+        },
+        "post": {
+            "title": "Travel Tips for Adventurers",
+            "description": "Explore the world with these travel tips",
+            "tag": "Travel",
+            "upVote": 7,
+            "downVote": 0
+        }
+    }
+    
+]
